@@ -1,0 +1,48 @@
+{
+  "slug": "galaxy-wedding-planners-and-hiring-centre-kol",
+  "name": "Galaxy Wedding Planners And Hiring Centre",
+  "shortName": "Galaxy Wedding Planners And Hiring Centre",
+  "descriptor": "Event Management",
+  "address": "Ground Floor, Paradise Building, Pallimukku, Near Corporation Bank, VJGF+WM5, Pallimukku, Kollam, Keralam 691010",
+  "area": "Pallimukku",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691010",
+  "geo": {
+    "lat": 8.8772659,
+    "lng": 76.6242474
+  },
+  "mapsLink": "https://maps.google.com/?cid=6155464079506953248",
+  "phone": "+91 88932 38401",
+  "whatsapp": "918893238401",
+  "hours": "Open 8 am – 9:30 pm · all days",
+  "opens": "08:00",
+  "closes": "21:30",
+  "rating": 4.1,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "name": "ABIN YOONUS",
+      "rating": 5,
+      "quote": "Best event management ferm in Kollam. Especially in catering. Nice standard natural food cooking. Wedding event management specialist. Experienced over 500+ wedding management."
+    },
+    {
+      "name": "Geetu Babu",
+      "rating": 5,
+      "quote": "Truly impressed with the food n decorations and specially, how they managed to meet every future goal set."
+    },
+    {
+      "name": "VIPIN P M",
+      "rating": 4,
+      "quote": "Very cooperative and resourceful"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://galaxy-wedding-planners-and-hiring.vercel.app"
+}
